@@ -1,5 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunjinb&theme=dark&show_icons=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunjinb&layout=compact&theme=tokyonight)
+출처: https://eunhee-programming.tistory.com/244 
 
 ### Hi👋
 <br>
