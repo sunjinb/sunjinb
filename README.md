@@ -14,6 +14,10 @@
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![AMAZON AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![AMAZON EC2](https://img.shields.io/badge/AMAZON_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+![AMAZON RDS](https://img.shields.io/badge/AMAZON_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_studio_code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 <!--
 **sunjinb/sunjinb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
