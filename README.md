@@ -5,8 +5,6 @@
 <br>
 <h2> 😄 </h2>
 
-![portfolioTmp](https://github.com/sunjinb/CS_Study/blob/master/portfolio/1.png)
-
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -23,6 +21,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_studio_code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![C](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![portfolioTmp](https://github.com/sunjinb/CS_Study/blob/master/portfolio/1.png)
+
 
 <!--
 **sunjinb/sunjinb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
