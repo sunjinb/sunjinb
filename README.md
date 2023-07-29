@@ -2,8 +2,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunjinb&layout=compact&theme=tokyonight)
 
 ### Hi👋
-<br>
-<h2> 😄 </h2>
+<h2> 😄 That's my Tech&Stack </h2>
 
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -12,6 +11,8 @@
 ![AMAZON EC2](https://img.shields.io/badge/AMAZON_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
 ![AMAZON RDS](https://img.shields.io/badge/AMAZON_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![DOCKER](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![JENKINS](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,7 +24,14 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ![portfolioTmp](https://github.com/sunjinb/CS_Study/blob/master/portfolio/1.png)
-
+![portfolioTmp](https://github.com/sunjinb/CS_Study/blob/master/portfolio/2.png)
+![portfolioTmp](https://github.com/sunjinb/CS_Study/blob/master/portfolio/3.png)
+![portfolioTmp](https://github.com/sunjinb/CS_Study/blob/master/portfolio/4.png)
+![portfolioTmp](https://github.com/sunjinb/CS_Study/blob/master/portfolio/5.png)
+![portfolioTmp](https://github.com/sunjinb/CS_Study/blob/master/portfolio/6.png)
+![portfolioTmp](https://github.com/sunjinb/CS_Study/blob/master/portfolio/7.png)
+![portfolioTmp](https://github.com/sunjinb/CS_Study/blob/master/portfolio/8.png)
+![portfolioTmp](https://github.com/sunjinb/CS_Study/blob/master/portfolio/9.png)
 
 <!--
 **sunjinb/sunjinb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
