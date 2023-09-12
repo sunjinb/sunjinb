@@ -5,7 +5,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjswls8062)](https://solved.ac/tjswls8062)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=tjswls8062&theme=warm)
 -->
-## 📊 My Stats
+<div align=center>
   
 ![Meoldae's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunjinb&show_icons=true&theme=github_dark_dimmed&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunjinb&layout=compact&theme=merko)
@@ -15,6 +15,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjswls8062)](https://solved.ac/tjswls8062)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=tjswls8062&theme=warm)
 
+</div>
 
 ### Hi👋
 <h2> 😄 That's my Tech&Stack </h2>
