@@ -1,6 +1,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunjinb&theme=dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunjinb&layout=compact&theme=tokyonight)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjswls8062)](https://solved.ac/tjswls8062)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=tjswls8062&theme=warm)
+
 ### Hi👋
 <h2> 😄 That's my Tech&Stack </h2>
 
