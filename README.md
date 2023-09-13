@@ -45,7 +45,7 @@
 </p>
 
 ## Blog
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name="tistory")](https://sunjinb-study-log.tistory.com/)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=tistory)](https://sunjinb-study-log.tistory.com/)
   
 ## 📬Contact Me
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:tjswls8062@naver.com)
