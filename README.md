@@ -45,7 +45,7 @@
 </p>
   
 ## 📬Contact Me
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={tistory})](https://sunjinb-study-log.tistory.com/)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name="tistory")](https://sunjinb-study-log.tistory.com/)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:tjswls8062@naver.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:tjswls8062@gmail.com)
 </div>
