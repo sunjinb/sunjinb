@@ -21,8 +21,8 @@
   <img src="https://img.shields.io/badge/MySQL-007396.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/JPA-007396.svg?&style=for-the-badge&logo=JPA&logoColor=white"/>
 <!--   <img src="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=AmazonAWS&logoColor=white"/> -->
-  ![AMAZON EC2](https://img.shields.io/badge/AMAZON_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
-  ![AMAZON RDS](https://img.shields.io/badge/AMAZON_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
+  <img src="https://img.shields.io/badge/AMAZON_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AMAZON_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/NGINX-009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
@@ -31,9 +31,8 @@
   <img src="https://img.shields.io/badge/CSS-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java Script-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white"/>
-  ![C](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
+  <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
   
 ### 🛠Tools
@@ -46,7 +45,7 @@
 </p>
   
 ## 📬Contact Me
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={insert_name})](https://sunjinb-study-log.tistory.com/)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={tistory})](https://sunjinb-study-log.tistory.com/)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:tjswls8062@naver.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:tjswls8062@gmail.com)
 </div>
